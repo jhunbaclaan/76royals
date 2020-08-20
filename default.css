@@ -18,7 +18,7 @@
 	{
 		margin: 0;
 		padding: 0;
-		color: #404040;
+		color: black;
 	}
 	
 	p, ol, ul
@@ -589,18 +589,24 @@
 	{
 		display: block;
 		padding-bottom: 1em;
-		font-size: 1em;
+		font-size: 2em;
 		color: rgba(255,255,255,1);
 	}
 
 	#portfolio .title
 	{
 		text-align: center;
+		border-radius: 25px;
+		background: black;
+		height: 75px;
+
 	}
 
 	#portfolio .title h2
 	{
-		color: rgba(0,0,0,0.8);
+		color: white;
+		font-size: 30px;
+		padding-top:20px;
 	}
 
 	.column1,
@@ -609,6 +615,7 @@
 	.column4
 	{
 		width: 282px;
+
 	}
 	
 	.column1,
@@ -670,6 +677,11 @@
 	#three-column .title
 	{
 		text-align: center;
+		padding: 10px 0px 0px 0px;
+		border-radius: 25px;
+		background: white;
+		height: 75px;
+
 	}
 	
 	#three-column .title h2
