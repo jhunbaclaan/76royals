@@ -320,6 +320,17 @@
 		color: #FFF;
 	}
 	
+	.title2
+	{
+		margin-bottom: 3em;
+	}
+
+	.title2 h2
+	{
+		font-size: 2.83m;
+		color: #FFF;
+	}
+
 	.title .byline
 	{
 		font-size: 1.1em;
