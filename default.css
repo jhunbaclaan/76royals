@@ -757,6 +757,14 @@
 
 	}
 
+	#three-column .title2
+	{
+		text-align: center;
+		padding: 10px 0px 0px 0px;
+		border-radius: 25px;
+		height: 75px;
+
+	}
 
 	#three-column .title1
 	{
